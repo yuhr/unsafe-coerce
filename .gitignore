@@ -1,0 +1,9 @@
+.*
+/target
+/Cargo.lock
+
+!.git*
+!.*rc
+!.*ignore
+!.editorconfig
+!.vscode
